@@ -38,7 +38,7 @@ The final output is an editable 3D mesh model that can be exported in formats su
 6. **Export:** Save the mesh in editable format.
 
 <p align="center">
-  <img src="architecture_images/new.jpg" width="500" />
+  <img src="new.jpg" width="500" />
   <br>
   <em>Proposed System Architecture</em>
 </p>
@@ -48,7 +48,7 @@ The final output is an editable 3D mesh model that can be exported in formats su
 ## 🧪 Sample Results
 
 <p align="center">
-  <img src="outputs/visual results.png" width="500" />
+  <img src="visual results.png" width="500" />
   <br>
   <em>Sample Output: 3D Mesh from 2D Face Input</em>
 </p>
